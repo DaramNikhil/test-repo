@@ -11,6 +11,6 @@ def process_post(data_path):
 
 
 if __name__ == "__main__":
-    data_path = "<add your data path here>"
+    data_path = "<add data here>"
     df = process_post(data_path)
     
